@@ -1,7 +1,7 @@
 
 public class Account {
     
-    // Verilerimiz
+    // Verilerimiz.
     
     private String username; // Kullanıcı Adı
     private String password; // Şifre

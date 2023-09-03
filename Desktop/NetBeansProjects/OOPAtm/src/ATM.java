@@ -6,7 +6,7 @@ public class ATM{
     
     public void runATM(Account acc1){
         
-        Login newLogin = new Login();  // "Login" Classından userLogin referansı ile yeni bir nesne (instance) oluşturduk.
+        Login newLogin = new Login();  // "Login" Classından userLogin referansı ile yeni bir nesne (instance) oluşturduk..
         
         Scanner getDataFromUser = new Scanner(System.in);
         

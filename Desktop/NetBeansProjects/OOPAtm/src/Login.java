@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Login{
    
-    public boolean userlogin(Account acclogin){  // Account Classımızdan , acclogin referansımız
+    public boolean userlogin(Account acclogin){  // Account Classımızdan , acclogin referansımız.
         
         Scanner getDataFromUser = new Scanner(System.in);  // Scanner ile kullanıcıdan kullanıcı adı ve şifre alıyoruz.
         
