@@ -121,7 +121,7 @@ public class Training {
         }
         else{
             situp_count -= count;
-            System.out.println("Situp Remaining : " + situp_count);
+            System.out.println("Situp Remaining : " + situp_count); //
         }
         
     }

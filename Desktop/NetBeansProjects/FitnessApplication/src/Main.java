@@ -26,7 +26,7 @@ public class Main {
         
         System.out.print("Enter the Number of Burpees You Want to Make : ");
         int burpee = getDataFromUser.nextInt();
-        System.out.print("Enter the Number of PushUps You Want to Make : ");
+        System.out.print("Enter the Number of PushUps You Want to Make : "); //
         int pushUp = getDataFromUser.nextInt();
         System.out.print("Enter the Number of SitUps You Want to Make : ");
         int sitUp = getDataFromUser.nextInt();
