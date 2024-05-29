@@ -1,0 +1,41 @@
+.navCustom {
+  background-color: #b5c0d0;
+}
+
+.navTextColor {
+  color: black !important;
+  text-decoration: none !important;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.navElek:hover {
+  color: yellow !important;
+}
+
+.navFen:hover {
+  color: red !important;
+}
+
+.navBoy:hover {
+  color: rgb(242, 106, 235) !important;
+}
+
+.navPark:hover {
+  color: green !important;
+}
+
+.navDes:hover {
+  color: rgb(24, 203, 200) !important;
+}
+
+.navTem:hover {
+  color: rgb(154, 122, 83) !important;
+}
+
+.navAyn:hover {
+  color: rgb(71, 124, 210) !important;
+}
+
+.navSos:hover {
+  color: rgb(219, 136, 62) !important;
+}

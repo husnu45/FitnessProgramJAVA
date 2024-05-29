@@ -1,0 +1,12 @@
+.login-background {
+  background: linear-gradient(to right, #0c0687, #b35959);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input[type="text"],
+input[type="password"] {
+  text-align: center;
+}
